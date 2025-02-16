@@ -1,0 +1,5 @@
+{
+  "/api/gemini/route": "app/api/gemini/route.js",
+  "/not-found": "app/not-found.js",
+  "/page": "app/page.js"
+}
